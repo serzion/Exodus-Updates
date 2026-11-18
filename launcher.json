@@ -1,1 +1,33 @@
-
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/KULLANICI_ADIN/Exodus-Updates/releases/latest/download/Exodus.exe",
+  "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus.exe",
+  "sha256": "",
+  "server_status": "online",
+  "server_status_text": "Sunucu Aktif",
+  "announcements": [
+    {
+      "tag": "YENİ",
+      "date": "18.11.2026",
+      "title": "Exodus II Launcher Yayında!",
+      "content": "Oyun güncellemeleri artık doğrudan Launcher üzerinden otomatik olarak indirilecek."
+    },
+    {
+      "tag": "ETKİNLİK",
+      "date": "18.11.2026",
+      "title": "Hafta Sonu Savaş Alanı Etkinliği",
+      "content": "Tüm oyuncular için hafta sonu boyunca ekstra ödüller ve özel boss dalgaları aktif."
+    }
+  ],
+  "patch_notes": [
+    {
+      "version": "1.0.0",
+      "date": "18.11.2026",
+      "items": [
+        "Otomatik güncelleme ve sürüm doğrulama sistemi eklendi.",
+        "Harita ve mini harita optimizasyonları yapıldı.",
+        "Sunucu bağlantı kararlılığı iyileştirildi."
+      ]
+    }
+  ]
+}
