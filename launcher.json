@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus2.exe",
   "sha256": "",
   "server_status": "online",
@@ -19,6 +19,13 @@
     }
   ],
   "patch_notes": [
+    {
+      "version": "1.0.1",
+      "date": "19.11.2026",
+      "items": [
+        "İttifak chat"
+      ]
+    },
     {
       "version": "1.0.0",
       "date": "18.11.2026",
