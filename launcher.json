@@ -1,7 +1,7 @@
 {
   "version": "1.0.6",
   "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus2.exe",
-  "sha256": "92c2ebe29b917416baa37224d2578f5da80fa9d8a902fc085943a3510303e79d",
+  "sha256": "",
   "server_status": "online",
   "server_status_text": "Sunucu Aktif",
   "announcements": [
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "launcher_version": "1.0.2",
+  "launcher_version": "1.0.3",
   "launcher_download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/ExodusLauncher.exe",
-  "launcher_sha256": "5226a13a19420b3ce33cb9aa8c8ec929ff4289555f8f9583bf230b6798a3a041"
+  "launcher_sha256": "c99218d93802c9467c4f7ffa575cb019d1c528be6178be1bbb4d6803d97729c9"
 }
