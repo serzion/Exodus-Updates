@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "launcher_version": "1.0.3",
+  "launcher_version": "1.0.4",
   "launcher_download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/ExodusLauncher.exe",
-  "launcher_sha256": "c99218d93802c9467c4f7ffa575cb019d1c528be6178be1bbb4d6803d97729c9"
+  "launcher_sha256": "f4214dcf3968c9efe5996d9a48547c7b8968337b608416c0e8948673b75df290"
 }
