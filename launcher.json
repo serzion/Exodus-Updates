@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus2.exe",
-  "sha256": "",
+  "sha256": "2ccea08863afedcb77ec1b05e1b91ef3ff6a2bf787ffd3fb86318c880b5ab1c7",
   "server_status": "online",
   "server_status_text": "Sunucu Aktif",
   "announcements": [
@@ -20,11 +20,10 @@
   ],
   "patch_notes": [
     {
-      "version": "1.0.4",
-      "date": "24.11.2026",
+      "version": "1.0.7",
+      "date": "25.11.2026",
       "items": [
-        "Mobile iyileştirme",
-        "efekter layzlloading"
+        "Emp ilk saniyede oyuncu görünmez olur  , 3 sn içinde kilitlenme sorunu çözüldü ."
       ]
     },
     {
