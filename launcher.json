@@ -1,7 +1,7 @@
 {
   "version": "1.0.2",
   "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus2.exe",
-  "sha256": "c08c6e88f165727265485eee29aabbfeb4c834782703f4a5ea859aff5af05706",
+  "sha256": "",
   "server_status": "online",
   "server_status_text": "Sunucu Aktif",
   "announcements": [
