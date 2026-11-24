@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus2.exe",
   "sha256": "92c2ebe29b917416baa37224d2578f5da80fa9d8a902fc085943a3510303e79d",
   "server_status": "online",
@@ -19,6 +19,14 @@
     }
   ],
   "patch_notes": [
+    {
+      "version": "1.0.4",
+      "date": "24.11.2026",
+      "items": [
+        "Mobile iyileştirme",
+        "efekter layzlloading"
+      ]
+    },
     {
       "version": "1.0.3",
       "date": "19.11.2026",
