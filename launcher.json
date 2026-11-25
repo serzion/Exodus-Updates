@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus2.exe",
-  "sha256": "915648649d1bdaa3f64825de2f99b9e5aa6d538f37ae592f0fd905e3da4b5e96",
+  "sha256": "38733ac9525100154d8c2d149ef0ba8bd321abca5b64cd45fa09f608a6765585",
   "server_status": "online",
   "server_status_text": "Sunucu Aktif",
   "announcements": [
@@ -19,6 +19,14 @@
     }
   ],
   "patch_notes": [
+    {
+      "version": "1.0.10",
+      "date": "25.11.2026",
+      "items": [
+        "Unvan sistemi eklendi .",
+        "3d isim can barlarında iyileştirmeler yapıldı . (  Unvan sisteminden dolayı şeklinde değişiklik yapıldı )"
+      ]
+    },
     {
       "version": "1.0.9",
       "date": "25.11.2026",
