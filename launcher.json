@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus2.exe",
-  "sha256": "e99c0fc2cc79010d41e5f32a0868d324b202c2fba42d0bf21ad7e73c002cd355",
+  "sha256": "915648649d1bdaa3f64825de2f99b9e5aa6d538f37ae592f0fd905e3da4b5e96",
   "server_status": "online",
   "server_status_text": "Sunucu Aktif",
   "announcements": [
@@ -19,6 +19,13 @@
     }
   ],
   "patch_notes": [
+    {
+      "version": "1.0.9",
+      "date": "25.11.2026",
+      "items": [
+        "Droidlerin Tasarım  renkleri diğer oyuncular tarafından anlık değişimi özelliği eklendi ."
+      ]
+    },
     {
       "version": "1.0.8",
       "date": "25.11.2026",
@@ -50,7 +57,7 @@
       ]
     }
   ],
-  "launcher_version": "1.0.4",
+  "launcher_version": "1.0.5",
   "launcher_download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/ExodusLauncher.exe",
-  "launcher_sha256": "f4214dcf3968c9efe5996d9a48547c7b8968337b608416c0e8948673b75df290"
+  "launcher_sha256": "9cff4b66746c39e891fb0415df5adc358469856614d7cc86b24a1ee857be1192"
 }
