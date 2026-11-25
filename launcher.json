@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "download_url": "https://github.com/serzion/Exodus-Updates/releases/latest/download/Exodus2.exe",
-  "sha256": "2ccea08863afedcb77ec1b05e1b91ef3ff6a2bf787ffd3fb86318c880b5ab1c7",
+  "sha256": "e99c0fc2cc79010d41e5f32a0868d324b202c2fba42d0bf21ad7e73c002cd355",
   "server_status": "online",
   "server_status_text": "Sunucu Aktif",
   "announcements": [
@@ -19,6 +19,13 @@
     }
   ],
   "patch_notes": [
+    {
+      "version": "1.0.8",
+      "date": "25.11.2026",
+      "items": [
+        "Droidlerin Tasarım renkleri Kırmızı mavi renklendirmesi harflere yansıtıldı ."
+      ]
+    },
     {
       "version": "1.0.7",
       "date": "25.11.2026",
